@@ -1,7 +1,7 @@
 baseURL = "https://thecyberacademic.com/"
 languageCode = "en-us"
 title = "The Cyber Academic Podcast"
-theme = "hugo-ink"
+theme = "hugo-ink-ai"
 paginate = 5
 
 copyright = "Copyright © The Cyber Academic"

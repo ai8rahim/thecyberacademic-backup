@@ -1,3 +1,6 @@
 [submodule "themes/hugo-ink"]
 	path = themes/hugo-ink
 	url = https://github.com/knadh/hugo-ink.git
+[submodule "themes/hugo-ink-ai"]
+	path = themes/hugo-ink-ai
+	url = https://github.com/ai8rahim/hugo-ink
